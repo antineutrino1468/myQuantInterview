@@ -1,0 +1,365 @@
+LeetCode Practice Roadmap
+=========================
+
+How to use this file:
+- TODO: important popular problems not yet found in your ltc2 notebook.
+- REVIEW: problems you already practiced, but should revisit because they are high-value interview patterns.
+- DONE: practiced problems that are useful but lower priority for immediate review.
+- P0: must know. P1: strong follow-up. P2: optional if time remains.
+- Mostly Easy/Medium. Hard problems are included only when they are unusually important.
+
+Sources used:
+- NeetCode practice / NeetCode 150: https://neetcode.io/practice
+- Grind 75 by Tech Interview Handbook: https://www.techinterviewhandbook.org/grind75/
+- LeetCode Top Interview Questions: https://leetcode.com/problem-list/top-interview-questions/
+
+Your current ltc2 notebook contains 131 LeetCode-numbered practiced entries.
+This roadmap contains 140 curated questions: 77 TODO, 63 REVIEW, 0 DONE.
+
+Practice Next: Missing Popular Questions
+----------------------------------------
+
+[Arrays & Hashing]
+TODO   P0 LC 1    Easy   Two Sum
+TODO   P0 LC 49   Medium Group Anagrams
+TODO   P0 LC 128  Medium Longest Consecutive Sequence
+TODO   P0 LC 217  Easy   Contains Duplicate
+TODO   P0 LC 242  Easy   Valid Anagram
+
+[Backtracking]
+TODO   P0 LC 46   Medium Permutations
+
+[Binary Search]
+TODO   P0 LC 875  Medium Koko Eating Bananas
+
+[Bit Manipulation]
+TODO   P0 LC 136  Easy   Single Number
+TODO   P0 LC 191  Easy   Number of 1 Bits
+
+[Dynamic Programming]
+TODO   P0 LC 91   Medium Decode Ways
+TODO   P0 LC 152  Medium Maximum Product Subarray
+
+[Graphs]
+TODO   P0 LC 133  Medium Clone Graph
+TODO   P0 LC 200  Medium Number of Islands
+TODO   P0 LC 207  Medium Course Schedule
+
+[Graphs / BFS]
+TODO   P0 LC 994  Medium Rotting Oranges
+
+[Heap]
+TODO   P0 LC 295  Hard   Find Median from Data Stream
+TODO   P0 LC 973  Medium K Closest Points to Origin
+
+[Linked List]
+TODO   P0 LC 19   Medium Remove Nth Node From End of List
+TODO   P0 LC 143  Medium Reorder List
+
+[Linked List / Heap]
+TODO   P0 LC 23   Hard   Merge k Sorted Lists
+
+[Sliding Window]
+TODO   P0 LC 76   Hard   Minimum Window Substring
+TODO   P0 LC 424  Medium Longest Repeating Character Replacement
+
+[Stack]
+TODO   P0 LC 155  Medium Min Stack
+TODO   P0 LC 739  Medium Daily Temperatures
+
+[Trees]
+TODO   P0 LC 98   Medium Validate Binary Search Tree
+TODO   P0 LC 102  Medium Binary Tree Level Order Traversal
+TODO   P0 LC 124  Hard   Binary Tree Maximum Path Sum
+TODO   P0 LC 226  Easy   Invert Binary Tree
+TODO   P0 LC 230  Medium Kth Smallest Element in a BST
+TODO   P0 LC 236  Medium Lowest Common Ancestor of a Binary Tree
+TODO   P0 LC 543  Easy   Diameter of Binary Tree
+
+[Trie]
+TODO   P0 LC 208  Medium Implement Trie
+
+[Two Pointers]
+TODO   P0 LC 42   Hard   Trapping Rain Water
+
+[Arrays & Hashing]
+TODO   P1 LC 54   Medium Spiral Matrix
+TODO   P1 LC 73   Medium Set Matrix Zeroes
+TODO   P1 LC 271  Medium Encode and Decode Strings
+
+[Backtracking]
+TODO   P1 LC 77   Medium Combinations
+
+[Binary Search]
+TODO   P1 LC 981  Medium Time Based Key-Value Store
+
+[Bit Manipulation]
+TODO   P1 LC 190  Easy   Reverse Bits
+TODO   P1 LC 268  Easy   Missing Number
+TODO   P1 LC 338  Easy   Counting Bits
+
+[Dynamic Programming]
+TODO   P1 LC 309  Medium Best Time to Buy and Sell Stock with Cooldown
+TODO   P1 LC 647  Medium Palindromic Substrings
+
+[Dynamic Programming / Trees]
+TODO   P1 LC 337  Medium House Robber III
+
+[Graphs]
+TODO   P1 LC 130  Medium Surrounded Regions
+TODO   P1 LC 210  Medium Course Schedule II
+TODO   P1 LC 417  Medium Pacific Atlantic Water Flow
+TODO   P1 LC 695  Medium Max Area of Island
+
+[Graphs / BFS]
+TODO   P1 LC 127  Hard   Word Ladder
+
+[Graphs / Union Find]
+TODO   P1 LC 261  Medium Graph Valid Tree
+TODO   P1 LC 323  Medium Number of Connected Components in an Undirected Graph
+TODO   P1 LC 684  Medium Redundant Connection
+
+[Greedy]
+TODO   P1 LC 678  Medium Valid Parenthesis String
+TODO   P1 LC 763  Medium Partition Labels
+
+[Heap]
+TODO   P1 LC 703  Easy   Kth Largest Element in a Stream
+
+[Heap / Greedy]
+TODO   P1 LC 621  Medium Task Scheduler
+
+[Intervals]
+TODO   P1 LC 435  Medium Non-overlapping Intervals
+
+[Linked List / Two Pointers]
+TODO   P1 LC 287  Medium Find the Duplicate Number
+
+[Math]
+TODO   P1 LC 7    Medium Reverse Integer
+TODO   P1 LC 50   Medium Pow(x, n)
+TODO   P1 LC 202  Easy   Happy Number
+
+[Math / Strings]
+TODO   P1 LC 13   Easy   Roman to Integer
+
+[Sliding Window]
+TODO   P1 LC 239  Hard   Sliding Window Maximum
+TODO   P1 LC 567  Medium Permutation in String
+
+[Stack]
+TODO   P1 LC 84   Hard   Largest Rectangle in Histogram
+TODO   P1 LC 150  Medium Evaluate Reverse Polish Notation
+TODO   P1 LC 853  Medium Car Fleet
+
+[Trees]
+TODO   P1 LC 105  Medium Construct Binary Tree from Preorder and Inorder Traversal
+TODO   P1 LC 235  Medium Lowest Common Ancestor of a Binary Search Tree
+TODO   P1 LC 297  Hard   Serialize and Deserialize Binary Tree
+TODO   P1 LC 572  Easy   Subtree of Another Tree
+
+[Trie]
+TODO   P1 LC 211  Medium Design Add and Search Words Data Structure
+
+[Trie / Backtracking]
+TODO   P1 LC 212  Hard   Word Search II
+
+[Arrays]
+TODO   P2 LC 66   Easy   Plus One
+
+[Backtracking]
+TODO   P2 LC 51   Hard   N-Queens
+
+[Bit Manipulation]
+TODO   P2 LC 371  Medium Sum of Two Integers
+
+[Heap / Design]
+TODO   P2 LC 355  Medium Design Twitter
+
+Review: Already Practiced but High-Value
+----------------------------------------
+
+[Arrays & Hashing]
+REVIEW P0 LC 53   Medium Maximum Subarray
+REVIEW P0 LC 238  Medium Product of Array Except Self
+REVIEW P0 LC 347  Medium Top K Frequent Elements
+REVIEW P0 LC 560  Medium Subarray Sum Equals K
+
+[Backtracking]
+REVIEW P0 LC 39   Medium Combination Sum
+REVIEW P0 LC 78   Medium Subsets
+REVIEW P0 LC 79   Medium Word Search
+
+[Binary Search]
+REVIEW P0 LC 33   Medium Search in Rotated Sorted Array
+REVIEW P0 LC 74   Medium Search a 2D Matrix
+REVIEW P0 LC 153  Medium Find Minimum in Rotated Sorted Array
+REVIEW P0 LC 704  Easy   Binary Search
+
+[Dynamic Programming]
+REVIEW P0 LC 5    Medium Longest Palindromic Substring
+REVIEW P0 LC 70   Easy   Climbing Stairs
+REVIEW P0 LC 139  Medium Word Break
+REVIEW P0 LC 198  Medium House Robber
+REVIEW P0 LC 300  Medium Longest Increasing Subsequence
+REVIEW P0 LC 322  Medium Coin Change
+REVIEW P0 LC 416  Medium Partition Equal Subset Sum
+
+[Greedy]
+REVIEW P0 LC 55   Medium Jump Game
+
+[Heap]
+REVIEW P0 LC 215  Medium Kth Largest Element in an Array
+
+[Intervals]
+REVIEW P0 LC 56   Medium Merge Intervals
+
+[Linked List]
+REVIEW P0 LC 21   Easy   Merge Two Sorted Lists
+REVIEW P0 LC 138  Medium Copy List with Random Pointer
+REVIEW P0 LC 141  Easy   Linked List Cycle
+REVIEW P0 LC 206  Easy   Reverse Linked List
+
+[Sliding Window]
+REVIEW P0 LC 3    Medium Longest Substring Without Repeating Characters
+REVIEW P0 LC 121  Easy   Best Time to Buy and Sell Stock
+
+[Stack]
+REVIEW P0 LC 20   Easy   Valid Parentheses
+
+[Stack / Backtracking]
+REVIEW P0 LC 22   Medium Generate Parentheses
+
+[Trees]
+REVIEW P0 LC 100  Easy   Same Tree
+REVIEW P0 LC 104  Easy   Maximum Depth of Binary Tree
+REVIEW P0 LC 110  Easy   Balanced Binary Tree
+
+[Two Pointers]
+REVIEW P0 LC 11   Medium Container With Most Water
+REVIEW P0 LC 15   Medium 3Sum
+REVIEW P0 LC 125  Easy   Valid Palindrome
+REVIEW P0 LC 167  Medium Two Sum II - Input Array Is Sorted
+
+[Arrays & Hashing]
+REVIEW P1 LC 36   Medium Valid Sudoku
+REVIEW P1 LC 48   Medium Rotate Image
+REVIEW P1 LC 169  Easy   Majority Element
+
+[Backtracking]
+REVIEW P1 LC 40   Medium Combination Sum II
+REVIEW P1 LC 131  Medium Palindrome Partitioning
+
+[Binary Search]
+REVIEW P1 LC 4    Hard   Median of Two Sorted Arrays
+REVIEW P1 LC 35   Easy   Search Insert Position
+
+[Dynamic Programming]
+REVIEW P1 LC 62   Medium Unique Paths
+REVIEW P1 LC 63   Medium Unique Paths II
+REVIEW P1 LC 64   Medium Minimum Path Sum
+REVIEW P1 LC 72   Medium Edit Distance
+REVIEW P1 LC 213  Medium House Robber II
+REVIEW P1 LC 494  Medium Target Sum
+REVIEW P1 LC 518  Medium Coin Change II
+REVIEW P1 LC 746  Easy   Min Cost Climbing Stairs
+REVIEW P1 LC 1143 Medium Longest Common Subsequence
+
+[Greedy]
+REVIEW P1 LC 45   Medium Jump Game II
+REVIEW P1 LC 134  Medium Gas Station
+
+[Greedy / DP]
+REVIEW P1 LC 122  Medium Best Time to Buy and Sell Stock II
+
+[Intervals]
+REVIEW P1 LC 57   Medium Insert Interval
+REVIEW P1 LC 452  Medium Minimum Number of Arrows to Burst Balloons
+
+[Linked List]
+REVIEW P1 LC 2    Medium Add Two Numbers
+
+[Math / Strings]
+REVIEW P1 LC 12   Medium Integer to Roman
+
+[Sliding Window]
+REVIEW P1 LC 209  Medium Minimum Size Subarray Sum
+REVIEW P1 LC 713  Medium Subarray Product Less Than K
+
+[Trees]
+REVIEW P1 LC 101  Easy   Symmetric Tree
+REVIEW P1 LC 199  Medium Binary Tree Right Side View
+
+Lower-Priority Already Practiced
+--------------------------------
+
+Already Practiced but Not in This Curated Popular Roadmap
+--------------------------------------------------------
+DONE   P2 LC 9    Palindrome Number
+DONE   P2 LC 14   Longest Common Prefix
+DONE   P2 LC 17   Letter Combinations of a Phone Number
+DONE   P2 LC 25   Reverse Nodes in k-Group
+DONE   P2 LC 26   Remove Duplicates from Sorted Array
+DONE   P2 LC 27   Remove Element
+DONE   P2 LC 34   Find First and Last Position of Element in Sorted Array
+DONE   P2 LC 47   Permutations II
+DONE   P2 LC 58   Length of Last Word
+DONE   P2 LC 67   Add Binary
+DONE   P2 LC 80   Remove Duplicates from Sorted Array II
+DONE   P2 LC 88   Merge Sorted Array
+DONE   P2 LC 90   Subsets II
+DONE   P2 LC 92   Reverse Linked List II
+DONE   P2 LC 93   Restore IP Addresses
+DONE   P2 LC 96   Unique Binary Search Trees
+DONE   P2 LC 120  Triangle
+DONE   P2 LC 146  LRU Cache
+DONE   P2 LC 162  Find Peak Element
+DONE   P2 LC 166  Fraction to Recurring Decimal
+DONE   P2 LC 189  Rotate Array
+DONE   P2 LC 203  Remove Linked List Elements
+DONE   P2 LC 216  Combination Sum III
+DONE   P2 LC 228  Summary Ranges
+DONE   P2 LC 274  H-Index
+DONE   P2 LC 279  Perfect Squares
+DONE   P2 LC 303  Range Sum Query - Immutable
+DONE   P2 LC 339  Nested List Weight Sum
+DONE   P2 LC 377  Combination Sum IV
+DONE   P2 LC 387  First Unique Character in a String
+DONE   P2 LC 392  Is Subsequence
+DONE   P2 LC 408  Valid Word Abbreviation
+DONE   P2 LC 455  Assign Cookies
+DONE   P2 LC 474  Ones and Zeroes
+DONE   P2 LC 491  Non-decreasing Subsequences
+DONE   P2 LC 509  Fibonacci Number
+DONE   P2 LC 528  Random Pick with Weight
+DONE   P2 LC 583  Delete Operation for Two Strings
+DONE   P2 LC 674  Longest Continuous Increasing Subsequence
+DONE   P2 LC 680  Valid Palindrome II
+DONE   P2 LC 718  Maximum Length of Repeated Subarray
+DONE   P2 LC 784  Letter Case Permutation
+DONE   P2 LC 884  Uncommon Words from Two Sentences
+DONE   P2 LC 977  Squares of a Sorted Array
+DONE   P2 LC 1035 Uncrossed Lines
+DONE   P2 LC 1048 Longest String Chain
+DONE   P2 LC 1049 Last Stone Weight II
+DONE   P2 LC 1086 High Five
+DONE   P2 LC 1122 Relative Sort Array
+DONE   P2 LC 1223 Dice Roll Simulation
+DONE   P2 LC 1249 Minimum Remove to Make Valid Parentheses
+DONE   P2 LC 1304 Find N Unique Integers Sum up to Zero
+DONE   P2 LC 1360 Number of Days Between Two Dates
+DONE   P2 LC 1399 Count Largest Group
+DONE   P2 LC 1446 Consecutive Characters
+DONE   P2 LC 1768 Merge Strings Alternately
+DONE   P2 LC 1823 Find the Winner of the Circular Game
+DONE   P2 LC 1863 Sum of All Subset XOR Totals
+DONE   P2 LC 2016 Maximum Difference Between Increasing Elements
+DONE   P2 LC 2085 Count Common Words With One Occurrence
+DONE   P2 LC 2210 Count Hills and Valleys in an Array
+DONE   P2 LC 2273 Find Resultant Array After Removing Anagrams
+DONE   P2 LC 3136 Valid Word
+DONE   P2 LC 3304 Find the K-th Character in String Game I
+DONE   P2 LC 3330 Find the Original Typed String I
+DONE   P2 LC 3477 Fruits Into Baskets II
+DONE   P2 LC 3487 Maximum Unique Subarray Sum After Deletion
+DONE   P2 LC 3566 Partition Array into Two Equal Product Subsets
